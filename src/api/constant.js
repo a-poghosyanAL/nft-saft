@@ -1,0 +1,1 @@
+export const TRANSAK_URL = 'https://api.transak.com/api/v2'
